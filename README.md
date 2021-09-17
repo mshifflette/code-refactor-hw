@@ -5,4 +5,4 @@
 ## Screenshot of Deployed Webpage
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/73154359/133708161-0c0111b1-96c2-4d28-af44-e38747fbff83.png)
 
-### Link to Deployed Webpage https://mshifflette.github.io/code-refactor-hw/#social-media-marketing
+### Link to Deployed Webpage https://mshifflette.github.io/code-refactor-hw/
